@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+header{
+    height: 120px;
+    background-color: #262626;
+    padding: 10px 0;
+}
+
+.container{
+    max-width: 900px;
+    display: flex; align-items: center; justify-content: space-between; gap: 20px;
+}
+
+#menu a, .container a{
+    color: white; text-decoration: none; padding-right: 4em;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+.jugler{
+    color: #44b874;
+}
+
+.home{
+    margin-top: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.alerta{
+    text-align: center;
+    max-width: 400px;
+    margin: 1.2em auto 0 auto;
+}
+
+.rodape{
+    align-self: center;
+}
+
+.cursos, .alunos, .matriculas{
+    margin: 3em auto 3em auto;
+    max-width: 900px;
+}
+
+footer{
+    text-align: center;
+    height: 100px;
+    background-color: #44b874;
+    padding: 1.6em 0;
+    color: white;
+}
+
+#conteudo{
+    padding: 30px 0;
+}
+
+a:hover{
+    opacity: 0.8;
+}
