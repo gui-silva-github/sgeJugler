@@ -87,7 +87,7 @@ Utilize a funcionalidade de pesquisa para recuperar rapidamente as informações
 <h4>A qualquer momento que você entrar de novo no sistema, ele vai fazer o login automático (com admin e 123), sem você precisar colocar o usuário e senha.</h4>
 <hr>
 
-<h3>Observação: O sistema não está com nenhum registro de alunos, cursos ou matriculas. Está limpo para a instituição utilizar.</h3><hr>
+<h3>Observação: O sistema não está com nenhum registro de alunos, cursos ou matriculas. No entanto, para sua utilização é sempre necessário inicializar o APACHE e o MySQL pelo XAMPP.</h3><hr>
 <h5>Se tiverem qualquer sugestão de melhoria, podem comentar.</h3>
 
 # Tecnologias
@@ -100,4 +100,8 @@ Utilize a funcionalidade de pesquisa para recuperar rapidamente as informações
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+# Download do XAMPP
+
+[https://www.apachefriends.org/download.html]
 
